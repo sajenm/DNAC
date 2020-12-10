@@ -1,1 +1,4 @@
 This is a testfile.
+line 2
+line 3
+line 4
